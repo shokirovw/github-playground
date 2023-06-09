@@ -8,3 +8,5 @@ Just getting familiar with Github
 4. git checkout -b name creates a new branch
 
 # This is from second branch
+1. From quick-test branch
+1. New line from main branch
